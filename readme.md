@@ -25,6 +25,7 @@ You can check the index.php for more information.
 
 * [PHP7](http://www.php.net/) - The Language Used.
 * [Composer](https://getcomposer.org/) - Package Manager
+* [AltoRouter](http://altorouter.com) - Routing Library
 
 ## Authors
 
